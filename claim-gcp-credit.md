@@ -35,11 +35,11 @@ Click **Select a project** and choose an existing or create new.
 ### 5. Verify Your Credits
 Click **Billing** in the hamburger menu.
 
-<img src="images/5.png" style="width:50%;">
+<img src="images/5.png" style="width:20%;">
 
 Scroll down and click on **Credits** to verify.
 
-<img src="images/6.png" style="width:50%;">
+<img src="images/6.png" style="width:20%;">
 
 ✅ That’s it — you’ve successfully claimed your GCP credits!
 
