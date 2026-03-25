@@ -80,3 +80,4 @@ gcloud compute instances list --filter="name=build-with-ai-pub-web-server"
 ```
 * Run `curl http://<external_ip>` or type http://<external_ip> to get "Hello YOUR_NAME from EVENT_NAME!" on startup.
 * You will see something like this:
+<img src="images/8.png" style="width:100%;">
